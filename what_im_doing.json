@@ -1,0 +1,10 @@
+{"W":{
+    "What" : "What am I doing? Writing notes everyday.",
+    "Who" : "Who am I? Read my bio.",
+    "When" : "When am I doing this? At the time of making this it is march of 2018. I am 11 years old.",
+    "Why": {
+        "Why am I doing this Reason 1" : "Because I want to train on my git and vim and javascript.",
+        "Why am I doing this Reason 2" : "Because I want to build up a portfolio and learn to use github."
+    }
+ }
+}
