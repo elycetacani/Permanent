@@ -1,0 +1,12 @@
+{"Possible Jobs":{
+    "Medical": {
+        "Doctor" : "Unknown specific type as of right now. Will edit in future.",
+        "Nurse" : "Retirement Homes."
+    },
+    "Other": {
+        "Coding" : "As of right now, I'm not sure the type.",
+        "Manager" : "Simple. A a manager.",
+        "Artist" : "Low chance ever will. Commercial Artist"
+    }
+ }
+}
