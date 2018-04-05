@@ -6,15 +6,26 @@
     }, 
     "April 4, 2018" :{
         "Health" :{
-            "Sleep": "Do you know what time you go to sleep? Are you tired in the morning? Well I am tired and unknowing of the time I sleep so I put this here to remind me to always go to sleep at !0:00pm. What time do you go to sleep?",
+            "Sleep": "Do you know what time you go to sleep? Are you tired in the morning? Well I am tired and unknowing of the time I sleep so I put this here to remind me to always go to sleep at 10:00pm. What time do you go to sleep?",
             "Excercise" : "I never excercise. Do you? I heard it's good to do it way early in the morning. Like maybe 4:00am. Why? Most oxygen is out at that time and less car smog. Also, your body is warm so it's easier to stretch! I hope you like my advice."
         }
     },
     "April 5, 2018" :{
-        "Science":{
-            "Everything" : "Everything is made up of atoms. Right? So that means... You're not really solid. Tecnically it's possible that right now small parts of you are... Teleporting, right now.",
-            "Disappearing" : "Is it possible to disappear? If you didn't know you existed, if nobody else knew you existed... Could you disappear?"
-        }
+        "Science Questions":[
+            "Everything is made up of atoms. Right? Tecnically it's possible that right now small parts of you are... Teleporting, right now.",
+            "Is it possible to disappear? If you didn't know you existed, if nobody else knew you existed... Could you disappear?",
+            "Is it possible to travel in time, right now?", 
+            "Are their people from the future, that you think are just normal people?", 
+            "If people from the future could travel in time by taking somebody's body over, what happens to the mind of the person before?",
+            "Are you from the future?",
+            "What would you do if you could travel back in time and change everything?",
+            "What does an atom look like?",
+            "Can people right now teleport?",
+            "Is your arm you? Or is it your property?",
+            "If we are made up of atoms... Are they solid? Are we even solid?",
+            "What size are we really? If we took out all the space inbetween the electron and a photon in an atom... What size would we be?"
+        ],
+        "Small Joke" : "Don't trust atom. He makes up everything!"
     }
  }
 }
