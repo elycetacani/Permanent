@@ -1,7 +1,11 @@
-{"My Favorite Games":{
-    "DDLC" : "Doki Doki Literature Club. A horror 'dating' sim.",
-    "Minecraft" : "Minecraft. A sandbox game. No true ending.",
-    "Unison League" : "Unison League. A mobile rpg.",
-    "UT" : "Undertale. A roleplaying video game."
- }
+{"My Favorite Games":[
+    "Sudoku",
+    "Undertale",
+    "Minecraft",
+    "Roblox",
+    "Unison League",
+    "Yandere Simulator",
+    "Doki Doki Literature Club",
+    "Love Nikki Dress Up Queen"
+ ]
 }
