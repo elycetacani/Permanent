@@ -11,7 +11,10 @@
         }
     },
     "April 5, 2018" :{
-        "My note" : "I'm not putting my daily note on here, I'm making a new file. This is earlier than I thought I would make a medical notes file but I am today. I will have weekly notes there."
+        "Science":{
+            "Everything" : "Everything is made up of atoms. Right? So that means... You're not really solid. Tecnically it's possible that right now small parts of you are... Teleporting, right now.",
+            "Disappearing" : "Is it possible to disappear? If you didn't know you existed, if nobody else knew you existed... Could you disappear?"
+        }
     }
  }
 }
