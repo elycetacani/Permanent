@@ -1,9 +1,9 @@
 {"Notes":{
     "April 2, 2018" : "Git seems to not show all my contributions (I am not sure.) so I will put the dates on when I put notes here so that everybody knows that I actually do everyday.",
-    "April 3, 2018" :{
-        "By the way" : "These are useless random notes. I might make another file that would have some important medical based notes but that'll probably be next month. So, you'll have to bear with this unless you can just go to the other file right now.",
-        "Manga" : "I'm an otaku... But a small one. My mom keeps me away from most anime (idk why) so I try to just watch the very 'kid-friendly' anime. I got a new manga on the last day of March! It was my very first."
-    }, 
+    "April 3, 2018" :[
+        "These are useless random notes. I might make another file that would have some important medical based notes but that'll probably be next month. So, you'll have to bear with this unless you can just go to the other file right now.",
+        "I'm an otaku... But a small one. My mom keeps me away from most anime (idk why) so I try to just watch the very 'kid-friendly' anime. I got a new manga on the last day of March! It was my very first."
+    ], 
     "April 4, 2018" :{
         "Health" :{
             "Sleep": "Do you know what time you go to sleep? Are you tired in the morning? Well I am tired and unknowing of the time I sleep so I put this here to remind me to always go to sleep at 10:00pm. What time do you go to sleep?",
@@ -26,6 +26,10 @@
             "What size are we really? If we took out all the space inbetween the electron and a photon in an atom... What size would we be?"
         ],
         "Small Joke" : "Don't trust atom. He makes up everything!"
+    },
+    "April 6, 2018" :{
+        "random note" : "Git finally got my contributions to work I guess, but I'm still going to put the date. Today's note isnt really interesting.",
+        "Arts" : "So, I have a hobby of doing art, and I post on instagram, sometimes on DeviantArt. That's about it."
     }
  }
 }
