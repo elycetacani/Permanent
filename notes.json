@@ -31,9 +31,25 @@
         "random note" : "Git finally got my contributions to work I guess, but I'm still going to put the date. Today's note isnt really interesting.",
         "Arts" : "So, I have a hobby of doing art, and I post on instagram, sometimes on DeviantArt. That's about it."
     },
-    "April 9, 2018":{
+    "April 9, 2018" :{
         "Focus" : "I... Have horrible focus. Do you have good focus? I learned focus mostly comes from testosterone, which is mostly in male humans. Isn't that interesting? But I also heard there was a chemical called estrogen (idk how to spell it) that is most commonly in females. It's like a lie detector.",
-        "Work" : "I have a huge art block and I can barely even do my work ;-; I can't even read a book I want to because I just want to play an online game ;-; Does anybody have some kind of technique for focus? Please let me know!"
+        "Work" : "I have a huge art block and I can barely even do my work ;-; I can't even read a book I want to because I just want to play an online game ;-; Does anybody have some kind of technique for focus? Please let me know!",
+        "Centralized Workflow" :[
+            "There is no 'one-size-fits-all' kind of workflow",
+            "A workflow should be simple and make your team more productive",
+            "Your business needs should help shape your git workflow"
+        ],
+        "Feature Branch Workflow" :[
+            "This workflow helps organize and track branches that are focused on business domain feature sets other git workflows are repo foocused.",
+            "Focused on branching patterns",
+            "Can be leveraged by other repo oriented workflows",
+            "Promotes collaboriation with team members through pull requests and merge reviews"
+        ],
+        "Gitflow Workflow" :[
+            "1. A develop branch is created from master", "2. a release branch is created from develop", "3. Feature branches are created from develop", "4.When a feature is complete it is merged into the develop branch", "5. When the release branche is done it is merged into develop and master", "6.If an issue in master is detected a hotfix branch is created from master", "7.Once the hotfix is complete it is merged to both develop and master",
+            "The workflow is great for a release-based software workflow",
+            "Gitflow offers a dedicated channel for hotfixes to production"
+        ]
     }
  }
 }
