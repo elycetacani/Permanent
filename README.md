@@ -1,8 +1,10 @@
 # Permanent
-These are notes I take everyday. I will not delete this... ever. If you wish to make changes, please do not delete anything. I will be okay with everything else.
-My name is Khaia Alvarado, I am a homeschooling student trying to learn git and javascript. These notes will help me train myself to learn how to do these things.
-W - What am I doing? Taking notes everyday.
-W - When am I doing it? Everyday but, I am still 11 as of making this file.
-W - Why am I doing it? To learn and practice using github and json/javascript files.
-W - Where am I doing it? Well I can't tell you where but I can tell you what I'm using! I use a terminal, visual studio code, and a MacBook Air.
-Yeah thanks for reading I guess. Have a great day! =^w0=
+## This is a permanent repository that I am going to keep, I will not delete this.
+
+>### A quick explenation of what I am doing :
+* W - What am I doing? Well, to answer that question, I will be putting notes every single day in my notes folder, and I am making a few website templates.
+* W - Why am I doing this? Well, I am trying to learn git, javascript, and python so I am learning using this repository and contributing to another.
+
+####If you really wish to read my notes, then you can. But they are just mostly useless daily notes. (minus on weekends.) If you wish to use my website templates, you only have to put somewhere that it was made by me. Thank you for reading, but you really didn't have to.
+
+>[Go check out a great college based repository to better your college decisions!](https://github.com/jun3rd/college)
