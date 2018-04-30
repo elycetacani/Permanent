@@ -1,1 +1,15 @@
-
+body {
+    background-color: #e2edff;
+    color: #081e42;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+#title {
+    background-color: #caddff;
+}
+#main {
+    margin: 10;
+}
+/* Bold Font: font-family: 'Oswald', sans-serif;*/
