@@ -5,10 +5,14 @@ body {
 }
 h1 {
     font-family: 'Oswald', sans-serif;
+    font-size: 50px;
 }
 #title {
     background-color: #caddff;
 }
+    #title p {
+     font-size: 10px;
+    }
 #main {
     margin: 10;
 }
