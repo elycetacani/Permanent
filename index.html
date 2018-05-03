@@ -3,12 +3,18 @@
   <meta charset="utf-8">
   <link rel="stylesheet" type="text/css" href="default.css">
   <link href="https://fonts.googleapis.com/css?family=Oswald|Roboto+Condensed" rel="stylesheet">
+  <script>
+   function myFunction() {
+     document.getElementById("demo").innerHTML = "I am Khaia Alvarado, a learning coder, doctor, and artist. Of course, I am just learning. Not all 3. But anyways I think it's nice of you to try and read this.";
+   } 
+  </script>
 </head>
 <body>
   <div id="main">
     <div id="title">
       <h1>Khaia Alvarado</h1>
-      <p>Small description. This is made by Khaia Alvarado. You can use this template as long as you fit in somewhere that this was made by Khaia Alvarado.</p>
+      <p id="demo">This is just a small description.</p>
+      <button type="button" onclick="myFunction()">Change the paragraph</button>
     </div>
     <div id="topnav">
       <a href="#">Home</a>
