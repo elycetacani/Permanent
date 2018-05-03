@@ -82,5 +82,8 @@
     "April 26,2018" : "I had two tests today. I need to do a git push and have nothing to put.",
     "April 27,2018" : "I'm probably a person with one of the plainest lives. I have nothing interesting, every single day.",
     "May 2,2018" : "Please add issues, thank you."
+    "May 3,2018" :{
+   "Javascript" : "drawbox doesn't seem to be a command, so I believe it is invalid."
+  }
  }
 }
