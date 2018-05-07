@@ -7,13 +7,19 @@ h1 {
     font-family: 'Oswald', sans-serif;
     font-size: 50px;
 }
-#title {
+.title {
     background-color: #caddff;
 }
-    #title p {
+    .title p {
      font-size: 10px;
     }
 #main {
     margin: 10;
+}
+#pmain {
+
+}
+.topnav {
+    
 }
 /* Bold Font: font-family: 'Oswald', sans-serif;*/
